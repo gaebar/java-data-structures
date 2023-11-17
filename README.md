@@ -13,4 +13,8 @@ This repository is dedicated to my journey learning data structures in Java. It 
 - [ ] Hash Tables
 
 ## Algorithms Covered
-Algorithms Journey Begins Soon
+
+### Arrays
+- [X] MaxMinFinder (Linear Search)
+
+More algorithms will be added as my journey progresses.
