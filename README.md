@@ -22,7 +22,8 @@ More algorithms will be added as my journey progresses.
 ## Resources
 
 * [LeetCode's Interview Crash Course: Data Structures and Algorithms](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/): A comprehensive guide to mastering interview questions related to data structures and algorithms.
-
+* [LeetCode's Top Interview Questions Easy Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/): Curated list of essential interview 
+  questions that cover fundamental concepts across various data structures and algorithms, perfect for beginners to practice.
 * [Neetcode](https://neetcode.io/): Offers well-structured problem-solving patterns for common coding interview questions.
 
 ### YouTube Video Series I love:
