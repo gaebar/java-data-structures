@@ -16,6 +16,7 @@ This repository is dedicated to my journey learning data structures in Java. It 
 
 ### Arrays
 - [X] [MaxMinFinder (Linear Search)](src/main/java/dev/gaetanobarreca/arrays/searching/MaxMinFinder.java)
+- [X] [Find Element (Linear Search)](src/main/java/dev/gaetanobarreca/arrays/searching/FindElement.java)
 
 More algorithms will be added as my journey progresses.
 
