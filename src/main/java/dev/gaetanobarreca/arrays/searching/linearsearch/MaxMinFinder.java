@@ -1,4 +1,4 @@
-package dev.gaetanobarreca.arrays.searching;
+package dev.gaetanobarreca.arrays.searching.linearsearch;
 
 public class MaxMinFinder {
     public static void main(String[] args) {
